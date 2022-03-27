@@ -52,7 +52,7 @@ class Home extends Component {
     cardDetails: list,
   }
 
-  /* componentDidMount() {
+   componentDidMount() {
     this.card()
   }
 
@@ -85,7 +85,7 @@ class Home extends Component {
         cardDetails: list,
       })
     }
-  } */
+  } 
 
   popup = () => (
     <div>
